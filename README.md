@@ -8,7 +8,7 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 ### The book by Michael Nielsen
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-### The book walks through the code behind the example in these videos, which you can find here:
+### The book walks through the code behind the example in these videos, which you can find here
 [Code](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 
