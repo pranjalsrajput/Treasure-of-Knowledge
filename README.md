@@ -16,5 +16,5 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 [Blog](http://colah.github.io/)
 
 ### Welch Labs great series on machine learning
-[Learning To See [Part 1: Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI)
-[Neural Networks Demystified [Part 1: Data and Architecture](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+[Learning To See Part 1: Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI)
+[Neural Networks Demystified Part 1: Data and Architecture](https://www.youtube.com/watch?v=bxe2T-V8XRs)
