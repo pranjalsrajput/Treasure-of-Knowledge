@@ -19,3 +19,6 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 [Learning To See Part 1: Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI)
 
 [Neural Networks Demystified Part 1: Data and Architecture](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+
+### Medium Blog
+[Intro to DL for Face recognition](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
