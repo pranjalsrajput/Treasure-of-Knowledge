@@ -22,3 +22,6 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 
 ### Medium Blog
 [Intro to DL for Face recognition](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
+
+### Deep Learning Book
+[DL by Goodfellow](http://www.deeplearningbook.org/)
