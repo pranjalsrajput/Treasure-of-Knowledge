@@ -25,3 +25,12 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 
 ### Deep Learning Book
 [DL by Goodfellow](http://www.deeplearningbook.org/)
+
+
+### Face detection methods and comparision
+[Face Detection – OpenCV, Dlib and Deep Learning ( C++ / Python )](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/)
+
+[Code](https://github.com/spmallick/learnopencv/tree/master/FaceDetectionComparison)
+
+### Learn OpenCV
+[Github repo](https://github.com/spmallick/learnopencv)
