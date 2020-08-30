@@ -34,3 +34,6 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 
 ### Learn OpenCV
 [Github repo](https://github.com/spmallick/learnopencv)
+
+### Decision Trees
+[Medium Blog](https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134#:~:text=Splitting%3A%20It%20is%20a%20process,called%20Leaf%20or%20Terminal%20node.)
