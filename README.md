@@ -2,7 +2,7 @@
 Contains links to nice blogs, videos and books related mostly to subjects like Mathematics, Machine Learning, Deep Learning, Computer Vision, etc
 
 
-### My personal favourite videos
+### Grant Sanderson
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### The book by Michael Nielsen
@@ -38,3 +38,7 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 ### Decision Trees
 [Analytics Vidhya Blog](https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/)
 [Random Blog](https://www.saedsayad.com/decision_tree.htm)
+
+### Neural Network Basics
+[CS231n](https://cs231n.github.io/convolutional-networks/#:~:text=The%20conv%20layers%20should%20be,original%20size%20of%20the%20input.)
+[Random Blog](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
