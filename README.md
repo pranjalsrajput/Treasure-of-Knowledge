@@ -42,3 +42,4 @@ Contains links to nice blogs, videos and books related mostly to subjects like M
 ### Neural Network Basics
 [CS231n](https://cs231n.github.io/convolutional-networks/#:~:text=The%20conv%20layers%20should%20be,original%20size%20of%20the%20input.)
 [Random Blog](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
+[Random Blog](https://towardsdatascience.com/a-complete-guide-to-using-tensorboard-with-pytorch-53cb2301e8c3)
